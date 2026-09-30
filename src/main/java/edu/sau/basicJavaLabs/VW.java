@@ -21,7 +21,7 @@ public class VW {
     }
 
     public String makeSignal(){
-        return "bee-bee";
+        return "fa-fa";
 
     }
 }
